@@ -14,7 +14,7 @@ import simple.MainApp;
 /**
  * Tests for {@link MainApp}.
  *
- * @author Dave Syer
+ * @author George Nanor
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
